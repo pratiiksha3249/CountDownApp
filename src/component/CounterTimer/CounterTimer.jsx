@@ -55,7 +55,7 @@ const CounterTimer = () => {
 
   return (
     <div className='countdown-timer'>
-        <h1>Countdown Timer</h1>
+        <h1>Countdown Timer...</h1>
         <div>
             <input className='timer-display' placeholder='Enter Time In minuts' type='number'
             onChange={handleInput}            
